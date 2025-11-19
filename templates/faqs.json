@@ -1,0 +1,1074 @@
+{
+    "version": "0.4",
+    "title": "FAQs",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "48fe2a8d",
+            "settings": {
+                "flex_direction": "row",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/young-doctor-talking-at-hospital-reception-with-her-colleague-.jpg",
+                    "id": 2494,
+                    "size": "",
+                    "alt": "Young doctor talking at hospital reception with her colleague.",
+                    "source": "library"
+                },
+                "background_position": "bottom center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "14",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "12",
+                    "right": "0",
+                    "bottom": "4",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.40000000000000002220446049250313080847263336181640625,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=638d055"
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 600,
+                    "sizes": []
+                },
+                "border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "70",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "311d6b70",
+                    "settings": {
+                        "content_width": "full"
+                    },
+                    "elements": [
+                        {
+                            "id": "4b2f47df",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "FAQs",
+                                "header_size": "h1",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6945d87d",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Find Quick Answers to Your Health Questions",
+                                "header_size": "h4",
+                                "align": "center",
+                                "__dynamic__": [],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "7ca262df",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "flex_wrap": "wrap",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "94558a9",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 600,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "687d68ef",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Common Questions",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "457dee2f",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Got Questions? We\u2019ve Got Answers!",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "2c6202f6",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "28",
+                            "row": "28",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 28
+                        },
+                        "flex_gap_tablet": {
+                            "column": "21",
+                            "row": "21",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 21
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5f048cb8",
+                            "settings": {
+                                "content_width": "full",
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "How can I book an appointment online?",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "7a01706"
+                                    },
+                                    {
+                                        "acc_title": "What are the clinic\u2019s operating hours?",
+                                        "_id": "98c2f62"
+                                    },
+                                    {
+                                        "acc_title": "Which insurance plans do you accept?",
+                                        "_id": "4cdbef5"
+                                    },
+                                    {
+                                        "acc_title": "What should I bring to my appointment?",
+                                        "_id": "3d5ef92"
+                                    },
+                                    {
+                                        "acc_title": "How do I cancel or reschedule appointments?",
+                                        "_id": "4096ef8"
+                                    },
+                                    {
+                                        "acc_title": "Are walk-in patients accepted at the clinic?",
+                                        "_id": "ab3a15a"
+                                    },
+                                    {
+                                        "acc_title": "What services are covered under my insurance?",
+                                        "_id": "a2b0169"
+                                    }
+                                ],
+                                "ekit_accordion_right_icons": {
+                                    "value": " arrow_triangle-down_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_right_icon_actives": {
+                                    "value": " arrow_triangle-up_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_title_color": "#FFFFFF",
+                                "ekit_accordion_background_background": "gradient",
+                                "ekit_accordion_background_color": "#184468",
+                                "ekit_accordion_border_radious_curve_shape_open": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_background_background": "classic",
+                                "ekit_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_icon_typography_close": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color_close": "#1A4A72",
+                                "ekit_accordion_icon_typography": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color": "#87BBA2",
+                                "ekit_accordion_section_icon_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_icon_color_close": "globals\/colors?id=b70d322",
+                                    "ekit_accordion_icon_color": "globals\/colors?id=text",
+                                    "ekit_accordion_background_color": "globals\/colors?id=044b931",
+                                    "ekit_accordion_title_color": "globals\/colors?id=text",
+                                    "ekit_accordion_content_background_color": "",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=7fbea4f",
+                                    "ekit_accordion_background_color_b": "globals\/colors?id=fd93e06"
+                                },
+                                "ekit_accordion_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "761de023",
+                            "settings": {
+                                "content_width": "full",
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "How can I book an appointment online?",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "7a01706"
+                                    },
+                                    {
+                                        "acc_title": "What are the clinic\u2019s operating hours?",
+                                        "_id": "98c2f62"
+                                    },
+                                    {
+                                        "acc_title": "Which insurance plans do you accept?",
+                                        "_id": "4cdbef5"
+                                    },
+                                    {
+                                        "acc_title": "What should I bring to my appointment?",
+                                        "_id": "3d5ef92"
+                                    },
+                                    {
+                                        "acc_title": "How do I cancel or reschedule appointments?",
+                                        "_id": "4096ef8"
+                                    },
+                                    {
+                                        "acc_title": "Are walk-in patients accepted at the clinic?",
+                                        "_id": "ab3a15a"
+                                    },
+                                    {
+                                        "acc_title": "What services are covered under my insurance?",
+                                        "_id": "a2b0169"
+                                    }
+                                ],
+                                "ekit_accordion_right_icons": {
+                                    "value": " arrow_triangle-down_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_right_icon_actives": {
+                                    "value": " arrow_triangle-up_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_title_color": "#FFFFFF",
+                                "ekit_accordion_background_background": "gradient",
+                                "ekit_accordion_background_color": "#184468",
+                                "ekit_accordion_border_radious_curve_shape_open": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_background_background": "classic",
+                                "ekit_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_icon_typography_close": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color_close": "#1A4A72",
+                                "ekit_accordion_icon_typography": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color": "#87BBA2",
+                                "ekit_accordion_section_icon_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_icon_color_close": "globals\/colors?id=b70d322",
+                                    "ekit_accordion_icon_color": "globals\/colors?id=text",
+                                    "ekit_accordion_background_color": "globals\/colors?id=044b931",
+                                    "ekit_accordion_title_color": "globals\/colors?id=text",
+                                    "ekit_accordion_content_background_color": "",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=7fbea4f",
+                                    "ekit_accordion_background_color_b": "globals\/colors?id=fd93e06"
+                                },
+                                "ekit_accordion_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "7c65525e",
+            "settings": {
+                "flex_direction": "row",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/female-doctor-checking-patient-blood-pressure-in-clinic.jpg",
+                    "id": 501,
+                    "size": "",
+                    "alt": "Female doctor checking patient blood pressure in clinic",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.14000000000000001332267629550187848508358001708984375,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=044b931",
+                    "shape_divider_top_color": "globals\/colors?id=text",
+                    "shape_divider_bottom_color": "globals\/colors?id=text"
+                },
+                "shape_divider_top": "mountains",
+                "shape_divider_top_width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_bottom": "mountains",
+                "shape_divider_bottom_width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_bottom_height": {
+                    "unit": "px",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_bottom_flip": "yes",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "flex_wrap": "wrap",
+                "shape_divider_top_height_mobile": {
+                    "unit": "px",
+                    "size": 60,
+                    "sizes": []
+                },
+                "shape_divider_bottom_height_mobile": {
+                    "unit": "px",
+                    "size": 60,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "59f3d829",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 600,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "987409d",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Dedicated to Providing Quality Healthcare for All, Every Day",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "61db97a1",
+                            "settings": {
+                                "content_width": "full",
+                                "editor": "<p>Efficitur interdum congue magnis molestie mauris sociosqu a porta ac venenatis gravida ante quis arcu tempor auctor phasellus egestas cubilia platea consequat elementum<\/p>",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=text"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "484f6149",
+                            "settings": {
+                                "content_width": "full",
+                                "text": "Discover More",
+                                "align": "center",
+                                "__globals__": {
+                                    "button_text_color": "globals\/colors?id=text",
+                                    "background_color": "globals\/colors?id=332724a",
+                                    "hover_color": "globals\/colors?id=text",
+                                    "button_background_hover_color": "globals\/colors?id=d49ac81"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "412fe86e",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "flex_wrap": "wrap",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6d0d63f",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 600,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "75e94eb8",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Order & Payment",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2c556ab4",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Most Popular Questions",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "7ca65c4d",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "28",
+                            "row": "28",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 28
+                        },
+                        "flex_gap_tablet": {
+                            "column": "21",
+                            "row": "21",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 21
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5f5c45f",
+                            "settings": {
+                                "content_width": "full",
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "How can I book an appointment online?",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "7a01706"
+                                    },
+                                    {
+                                        "acc_title": "What are the clinic\u2019s operating hours?",
+                                        "_id": "98c2f62"
+                                    },
+                                    {
+                                        "acc_title": "Which insurance plans do you accept?",
+                                        "_id": "4cdbef5"
+                                    },
+                                    {
+                                        "acc_title": "What should I bring to my appointment?",
+                                        "_id": "3d5ef92"
+                                    },
+                                    {
+                                        "acc_title": "How do I cancel or reschedule appointments?",
+                                        "_id": "4096ef8"
+                                    },
+                                    {
+                                        "acc_title": "Are walk-in patients accepted at the clinic?",
+                                        "_id": "ab3a15a"
+                                    },
+                                    {
+                                        "acc_title": "What services are covered under my insurance?",
+                                        "_id": "a2b0169"
+                                    }
+                                ],
+                                "ekit_accordion_right_icons": {
+                                    "value": " arrow_triangle-down_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_right_icon_actives": {
+                                    "value": " arrow_triangle-up_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_title_color": "#FFFFFF",
+                                "ekit_accordion_background_background": "gradient",
+                                "ekit_accordion_background_color": "#184468",
+                                "ekit_accordion_border_radious_curve_shape_open": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_background_background": "classic",
+                                "ekit_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_icon_typography_close": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color_close": "#1A4A72",
+                                "ekit_accordion_icon_typography": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color": "#87BBA2",
+                                "ekit_accordion_section_icon_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_icon_color_close": "globals\/colors?id=b70d322",
+                                    "ekit_accordion_icon_color": "globals\/colors?id=text",
+                                    "ekit_accordion_background_color": "globals\/colors?id=044b931",
+                                    "ekit_accordion_title_color": "globals\/colors?id=text",
+                                    "ekit_accordion_content_background_color": "",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=7fbea4f",
+                                    "ekit_accordion_background_color_b": "globals\/colors?id=fd93e06"
+                                },
+                                "ekit_accordion_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3c3eac6a",
+                            "settings": {
+                                "content_width": "full",
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "How can I book an appointment online?",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "7a01706"
+                                    },
+                                    {
+                                        "acc_title": "What are the clinic\u2019s operating hours?",
+                                        "_id": "98c2f62"
+                                    },
+                                    {
+                                        "acc_title": "Which insurance plans do you accept?",
+                                        "_id": "4cdbef5"
+                                    },
+                                    {
+                                        "acc_title": "What should I bring to my appointment?",
+                                        "_id": "3d5ef92"
+                                    },
+                                    {
+                                        "acc_title": "How do I cancel or reschedule appointments?",
+                                        "_id": "4096ef8"
+                                    },
+                                    {
+                                        "acc_title": "Are walk-in patients accepted at the clinic?",
+                                        "_id": "ab3a15a"
+                                    },
+                                    {
+                                        "acc_title": "What services are covered under my insurance?",
+                                        "_id": "a2b0169"
+                                    }
+                                ],
+                                "ekit_accordion_right_icons": {
+                                    "value": " arrow_triangle-down_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_right_icon_actives": {
+                                    "value": " arrow_triangle-up_alt2",
+                                    "library": "skb_cife-elegant-icon"
+                                },
+                                "ekit_accordion_title_color": "#FFFFFF",
+                                "ekit_accordion_background_background": "gradient",
+                                "ekit_accordion_background_color": "#184468",
+                                "ekit_accordion_border_radious_curve_shape_open": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_background_background": "classic",
+                                "ekit_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "21",
+                                    "right": "21",
+                                    "bottom": "21",
+                                    "left": "21",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_icon_typography_close": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color_close": "#1A4A72",
+                                "ekit_accordion_icon_typography": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_icon_color": "#87BBA2",
+                                "ekit_accordion_section_icon_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_icon_color_close": "globals\/colors?id=b70d322",
+                                    "ekit_accordion_icon_color": "globals\/colors?id=text",
+                                    "ekit_accordion_background_color": "globals\/colors?id=044b931",
+                                    "ekit_accordion_title_color": "globals\/colors?id=text",
+                                    "ekit_accordion_content_background_color": "",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=7fbea4f",
+                                    "ekit_accordion_background_color_b": "globals\/colors?id=fd93e06"
+                                },
+                                "ekit_accordion_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

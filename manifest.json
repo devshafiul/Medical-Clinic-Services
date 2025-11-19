@@ -1,0 +1,1263 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Medora - Template Kit for Clinic",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/shine.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Doctors",
+            "screenshot": "screenshots\/doctors.jpg",
+            "source": "templates\/doctors.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/doctors\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Appointment",
+            "screenshot": "screenshots\/appointment.jpg",
+            "source": "templates\/appointment.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Medora - Error 404",
+            "screenshot": "screenshots\/medora-error-404.jpg",
+            "source": "templates\/medora-error-404.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/?elementor_library=medora-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Medora - Single Post",
+            "screenshot": "screenshots\/medora-single-post.jpg",
+            "source": "templates\/medora-single-post.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/?elementor_library=medora-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Medora - Blog",
+            "screenshot": "screenshots\/medora-blog.jpg",
+            "source": "templates\/medora-blog.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/?elementor_library=medora-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Medora - Footer",
+            "screenshot": "screenshots\/medora-footer.jpg",
+            "source": "templates\/medora-footer.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/?elementor_library=medora-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Medora - Header",
+            "screenshot": "screenshots\/medora-header.jpg",
+            "source": "templates\/medora-header.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/medora\/?elementor_library=medora-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.8",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.24.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.23.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "group-of-doctors-standing-in-corridor-on-medical-conference.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/group-of-doctors-standing-in-corridor-on-medical-conference-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 136580,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-TXNWGD2"
+        },
+        {
+            "filename": "Group-1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/Group-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 49711,
+            "dimensions": [
+                629,
+                210
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "icon-Ask-a-Doctor.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/icon-Ask-a-Doctor.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9275,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/medical-services-icons-set-2-colored-series-PMDTPM"
+        },
+        {
+            "filename": "icon-Air-Medical-Services.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/icon-Air-Medical-Services.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4506,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/medical-services-icons-set-2-colored-series-PMDTPM"
+        },
+        {
+            "filename": "Icon-Appointment-Request.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/Icon-Appointment-Request.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3582,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/medical-services-icons-set-2-colored-series-PMDTPM"
+        },
+        {
+            "filename": "male-doctor-giving-thumbs-up-with-laptop-in-hand-2023-12-14-12-58-28-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/male-doctor-giving-thumbs-up-with-laptop-in-hand-2023-12-14-12-58-28-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 31136,
+            "dimensions": [
+                500,
+                661
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/male-doctor-giving-thumbs-up-with-laptop-in-hand-WZKYH9A"
+        },
+        {
+            "filename": "group-of-doctors-on-conference-medical-team-discussing-issues.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/group-of-doctors-on-conference-medical-team-discussing-issues-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 99326,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-82L7LP3"
+        },
+        {
+            "filename": "portrait-of-female-doctor-explaining-diagnosis-to-her-patient-doctor-meeting-with-patient.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/portrait-of-female-doctor-explaining-diagnosis-to-her-patient-doctor-meeting-with-patient-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 113832,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AQ7SYCK"
+        },
+        {
+            "filename": "smiling-black-doctor-consulting-female-doctor-in-clinic.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/smiling-black-doctor-consulting-female-doctor-in-clinic-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 104567,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-R3YJM7P"
+        },
+        {
+            "filename": "adult-woman-undergoing-routine-health-check-with-family-doctor.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/adult-woman-undergoing-routine-health-check-with-family-doctor-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 117753,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-J2VEJBZ"
+        },
+        {
+            "filename": "pregnant-doctor-with-her-colleague-pushing-litle-girl-at-wheelchair-at-pediatric-department-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/pregnant-doctor-with-her-colleague-pushing-litle-girl-at-wheelchair-at-pediatric-department--800x556.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 141078,
+            "dimensions": [
+                1280,
+                890
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VVK3SUW"
+        },
+        {
+            "filename": "nurse-and-elder-patient-looking-at-cardiology-illustration.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/nurse-and-elder-patient-looking-at-cardiology-illustration-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 88408,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-TGGSTD8"
+        },
+        {
+            "filename": "doctor-giving-injection-to-little-girl-in-hospital-immunization-concept-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/doctor-giving-injection-to-little-girl-in-hospital-immunization-concept--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 113486,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5SVVWAZ"
+        },
+        {
+            "filename": "performing-laboratory-tests.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/performing-laboratory-tests-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 92515,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-G79U5RQ"
+        },
+        {
+            "filename": "Ellipse-2B.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/Ellipse-2B.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1037,
+            "dimensions": [
+                191,
+                235
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "clinical-reception-with-waiting-room-in-lobby.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/clinical-reception-with-waiting-room-in-lobby-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 111909,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F5QVDU3"
+        },
+        {
+            "filename": "portrait-of-elderly-doctor-with-his-younger-collea-2023-11-27-05-15-28-utc.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/portrait-of-elderly-doctor-with-his-younger-collea-2023-11-27-05-15-28-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 102355,
+            "dimensions": [
+                600,
+                636
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-elderly-doctor-with-his-younger-collea-YQEMUPS"
+        },
+        {
+            "filename": "Frame-2.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/Frame-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 1794,
+            "dimensions": [
+                603,
+                640
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "smiling-professional-medical-worker-doctor-with-me-2023-11-27-04-55-36-utc.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/smiling-professional-medical-worker-doctor-with-me-2023-11-27-04-55-36-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 170284,
+            "dimensions": [
+                640,
+                1033
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-professional-medical-worker-doctor-with-me-LE8VELB"
+        },
+        {
+            "filename": "patient-at-an-appointment-with-otolaryngologist.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/patient-at-an-appointment-with-otolaryngologist-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 88506,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-SLXY9W5"
+        },
+        {
+            "filename": "concerned-senior-old-patient-patient-talks-with-healthcare-professional-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/concerned-senior-old-patient-patient-talks-with-healthcare-professional--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 92431,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-UBMTNN2"
+        },
+        {
+            "filename": "7.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16797,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24909,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "5.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 22801,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "cheerful-latin-woman-doctor-approving-service-sho-2023-11-27-05-19-53-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/cheerful-latin-woman-doctor-approving-service-sho-2023-11-27-05-19-53-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 34636,
+            "dimensions": [
+                500,
+                627
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-latin-woman-doctor-approving-service-show-DNE2WB5"
+        },
+        {
+            "filename": "cheerful-doctor-giving-thumbs-up-wearing-white-co-2023-11-27-05-05-05-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/cheerful-doctor-giving-thumbs-up-wearing-white-co-2023-11-27-05-05-05-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 34551,
+            "dimensions": [
+                500,
+                592
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-doctor-giving-thumbs-up-wearing-white-coa-CTUPD5G"
+        },
+        {
+            "filename": "confident-male-doctor-giving-thumbs-up-positive-h-2024-01-09-07-56-35-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/confident-male-doctor-giving-thumbs-up-positive-h-2024-01-09-07-56-35-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 28069,
+            "dimensions": [
+                500,
+                577
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/confident-male-doctor-giving-thumbs-up-positive-he-PHXZBSC"
+        },
+        {
+            "filename": "doctor-people-and-office-consultation-talking-and-healthcare-services-clinic-support-and-advice.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/doctor-people-and-office-consultation-talking-and-healthcare-services-clinic-support-and-advice-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 79088,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YWF38E7"
+        },
+        {
+            "filename": "group-of-professional-doctors-standing-in-a-line-at-the-modern-clinic.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/group-of-professional-doctors-standing-in-a-line-at-the-modern-clinic-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 102242,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-RT4LB4E"
+        },
+        {
+            "filename": "young-doctor-woman-giving-okay-sign-in-lab-coat-2024-03-08-17-34-39-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/young-doctor-woman-giving-okay-sign-in-lab-coat-2024-03-08-17-34-39-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 40218,
+            "dimensions": [
+                500,
+                695
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/young-doctor-woman-giving-okay-sign-in-lab-coat-AYJGEVG"
+        },
+        {
+            "filename": "doctor-woman-holding-laptop-with-pleasant-smile-2024-01-04-21-14-19-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/doctor-woman-holding-laptop-with-pleasant-smile-2024-01-04-21-14-19-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 27305,
+            "dimensions": [
+                500,
+                546
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/doctor-woman-holding-laptop-with-pleasant-smile-P7UYF7D"
+        },
+        {
+            "filename": "confident-nurse-in-blue-gives-ok-sign-signifying-2024-01-04-21-22-25-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/confident-nurse-in-blue-gives-ok-sign-signifying-2024-01-04-21-22-25-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 43495,
+            "dimensions": [
+                500,
+                680
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/confident-nurse-in-blue-gives-ok-sign-signifying-a-NDAN8EA"
+        },
+        {
+            "filename": "smiling-young-doctor-with-thumbs-up-looking-at-the-2023-11-27-05-19-38-utc.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/smiling-young-doctor-with-thumbs-up-looking-at-the-2023-11-27-05-19-38-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/doctors.json",
+                    "name": "Doctors"
+                }
+            ],
+            "filesize": 35958,
+            "dimensions": [
+                500,
+                654
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-doctor-with-thumbs-up-looking-at-the-XNMXN42"
+        },
+        {
+            "filename": "group-of-doctors-on-conference-medical-team-sitting-and-listening.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/group-of-doctors-on-conference-medical-team-sitting-and-listening-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 109270,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HHUBV78"
+        },
+        {
+            "filename": "beautiful-young-black-woman-doctor-attending-medical-conference.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/beautiful-young-black-woman-doctor-attending-medical-conference-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 99062,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-4HMJDJL"
+        },
+        {
+            "filename": "professor-doctor-advice-and-discuss-with-intern-student-for-surgery-planning-and-patient-treatment-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/professor-doctor-advice-and-discuss-with-intern-student-for-surgery-planning-and-patient-treatment--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 106909,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7HCS27F"
+        },
+        {
+            "filename": "happy-black-nurse-working-at-pediatric-clinic-and-looking-at-camera-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/happy-black-nurse-working-at-pediatric-clinic-and-looking-at-camera--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 97146,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-WMJY98A"
+        },
+        {
+            "filename": "the-brief-of-the-doctors-in-clinic.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/the-brief-of-the-doctors-in-clinic-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 146274,
+            "dimensions": [
+                1280,
+                851
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6W2F9E7"
+        },
+        {
+            "filename": "the-meeting-with-doctors-in-the-clinic.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/the-meeting-with-doctors-in-the-clinic-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 113613,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-S27XCRE"
+        },
+        {
+            "filename": "young-multiracial-doctor-sitting-at-reception-and-calling-his-colleagues-discussing-in-the.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/young-multiracial-doctor-sitting-at-reception-and-calling-his-colleagues-discussing-in-the-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 104220,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KFHLMLW"
+        },
+        {
+            "filename": "young-clinician-2023-11-27-05-18-27-utc.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/young-clinician-2023-11-27-05-18-27-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 129696,
+            "dimensions": [
+                640,
+                923
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/young-clinician-LNCBAGM"
+        },
+        {
+            "filename": "pediatrician-working-in-clinic.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/pediatrician-working-in-clinic-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 88531,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-CXSP6RT"
+        },
+        {
+            "filename": "Ellipse-1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/Ellipse-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1052,
+            "dimensions": [
+                191,
+                235
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "female-doctor-checking-patient-blood-pressure-in-clinic.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/female-doctor-checking-patient-blood-pressure-in-clinic-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 81958,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HZQUZYL"
+        },
+        {
+            "filename": "young-doctor-talking-at-hospital-reception-with-her-colleague-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/young-doctor-talking-at-hospital-reception-with-her-colleague--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 101730,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q6GT8EG"
+        },
+        {
+            "filename": "young-doctor-talking-at-hospital-reception-with-her-colleague-1-1.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/young-doctor-talking-at-hospital-reception-with-her-colleague-1-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 81775,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AA4BTTG"
+        },
+        {
+            "filename": "doctor-checking-patients-pulse-with-hand.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/doctor-checking-patients-pulse-with-hand-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/medora-error-404.json",
+                    "name": "Medora - Error 404"
+                }
+            ],
+            "filesize": 69191,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7EWM8Z8"
+        },
+        {
+            "filename": "attractive-female-caucasian-female-doctor-and-psychologist-gives-advice-encouragement-female-asian.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/attractive-female-caucasian-female-doctor-and-psychologist-gives-advice-encouragement-female-asian-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/medora-single-post.json",
+                    "name": "Medora - Single Post"
+                },
+                {
+                    "source": "templates\/medora-blog.json",
+                    "name": "Medora - Blog"
+                }
+            ],
+            "filesize": 71968,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-SNKJNPJ"
+        },
+        {
+            "filename": "Logo-Utama-Dark-2.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/Logo-Utama-Dark-2.png",
+            "templates": [
+                {
+                    "source": "templates\/medora-footer.json",
+                    "name": "Medora - Footer"
+                }
+            ],
+            "filesize": 3636,
+            "dimensions": [
+                411,
+                125
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-Utama-White-2.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/Logo-Utama-White-2.png",
+            "templates": [
+                {
+                    "source": "templates\/medora-header.json",
+                    "name": "Medora - Header"
+                }
+            ],
+            "filesize": 3878,
+            "dimensions": [
+                411,
+                125
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "version": "0.4",
+    "title": "Medora &#8211; Blog",
+    "type": "archive",
+    "metadata": {
+        "template_type": "archive-blog",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "archive",
+        "elementor_pro_conditions": [
+            "include\/archive"
+        ],
+        "additional_template_information": [
+            "This is a \"Archive\" template for Elementor Pro.",
+            "This template will display on: All Archives."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "120ed008",
+            "settings": {
+                "flex_direction": "row",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/shine.creativemox.com\/medora\/wp-content\/uploads\/sites\/24\/2024\/09\/attractive-female-caucasian-female-doctor-and-psychologist-gives-advice-encouragement-female-asian.jpg",
+                    "id": 172,
+                    "size": "",
+                    "alt": "Attractive female Caucasian female doctor and psychologist gives advice, encouragement female Asian",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "14",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "12",
+                    "right": "0",
+                    "bottom": "4",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.40000000000000002220446049250313080847263336181640625,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=638d055"
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 600,
+                    "sizes": []
+                },
+                "border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "70",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "363e8d23",
+                    "settings": {
+                        "content_width": "full"
+                    },
+                    "elements": [
+                        {
+                            "id": "5cfa4f2d",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Article & News",
+                                "header_size": "h1",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5d242201",
+                            "settings": {
+                                "content_width": "full",
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h4",
+                                "align": "center",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"e5288a2\" name=\"archive-title\" settings=\"%7B%7D\"]"
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "6b3cd596",
+            "settings": {
+                "flex_direction": "row",
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "1",
+                    "bottom": "3",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "2",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "161326e7",
+                    "settings": {
+                        "content_width": "full",
+                        "_skin": "archive_cards",
+                        "archive_classic_meta_separator": "\/\/\/",
+                        "archive_classic_read_more_text": "Read More \u00bb",
+                        "archive_cards_thumbnail_size_size": "full",
+                        "archive_cards_item_ratio_mobile": {
+                            "unit": "px",
+                            "size": 0.66000000000000003108624468950438313186168670654296875,
+                            "sizes": []
+                        },
+                        "archive_cards_excerpt_length": 42,
+                        "archive_cards_meta_separator": "\u2022",
+                        "archive_cards_show_read_more": "",
+                        "archive_cards_read_more_text": "Read More \u00bb",
+                        "archive_cards_show_avatar": "",
+                        "archive_full_content_meta_separator": "\/\/\/",
+                        "archive_cards_column_gap": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "archive_cards_column_gap_tablet": {
+                            "unit": "px",
+                            "size": 21,
+                            "sizes": []
+                        },
+                        "archive_cards_row_gap": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "archive_cards_row_gap_tablet": {
+                            "unit": "px",
+                            "size": 21,
+                            "sizes": []
+                        },
+                        "archive_cards_card_border_radius": {
+                            "unit": "px",
+                            "size": 21,
+                            "sizes": []
+                        },
+                        "archive_cards_image_spacing": {
+                            "unit": "px",
+                            "size": 7,
+                            "sizes": []
+                        },
+                        "archive_cards_badge_margin": {
+                            "unit": "px",
+                            "size": 14,
+                            "sizes": []
+                        },
+                        "archive_cards_title_spacing": {
+                            "unit": "px",
+                            "size": 21,
+                            "sizes": []
+                        },
+                        "archive_cards_excerpt_spacing": {
+                            "unit": "px",
+                            "size": 21,
+                            "sizes": []
+                        },
+                        "pagination_page_limit": "5",
+                        "pagination_prev_label": "&laquo; Previous",
+                        "pagination_next_label": "Next &raquo;",
+                        "text": "Load More",
+                        "load_more_no_posts_custom_message": "No more posts to show",
+                        "nothing_found_message": "It seems we can&#039;t find what you&#039;re looking for.",
+                        "__globals__": {
+                            "archive_cards_badge_bg_color": "globals\/colors?id=a2c0d56"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "archive-posts",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}
